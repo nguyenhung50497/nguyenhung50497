@@ -71,13 +71,13 @@
   <a href="https://www.facebook.com/nguyenhung50497" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCrbuYhbLW9CrXmpnHOA7mjA" target="blank">
+  <a href="https://www.youtube.com/channel/UCrbuYhbLW9CrXmpnHOA7mjA" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/vi%E1%BB%87t-h%C6%B0ng-nguy%E1%BB%85n-692602270/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="https://www.instagram.com/_nguyen_hungtn_/" target="blank">
+  <a href="https://www.instagram.com/_nguyen_hungtn_/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
   <a href="mailto:hungnguyen50497@gmail.com" target="top">
